@@ -1,6 +1,6 @@
 import "./css/main.css";
-import DisplayTodos from "./components/DisplayTodos";
-import Todos from "./components/Todos";
+import DisplayTodos from "./components/TaskLis";
+import Todos from "./components/AddTask";
 
 import { motion } from "framer-motion";
 function App() {
